@@ -105,7 +105,5 @@ int main() {
     printf("PIB: %.2f bilhoes de reais\n", pib2);
     printf("Numero de Pontos Turisticos: %d\n", pontosTuristicos2);
 
-
-
     return 0;
 }
